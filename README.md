@@ -3,10 +3,9 @@
 This job recommendation system is designed to help job seekers find suitable job opportunities based on their skills. The system uses a machine learning algorithm to match job seekers with job postings.
 
 ## Team Members
-Atharva Patil ENG19CS0052 <br />
-Aryan Kumar ENG19CS0044 <br />
-Divyansh Suwalka ENG19CS0080 <br />
-Gaurav Rai ENG19CS0097
+Sushumna S<br />
+Vikas G<br />
+
 
 ## Requirements
 
